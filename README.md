@@ -2,7 +2,9 @@
 ### Eu sou Christiany Souza.
 Estou iniciando um blog sobre os meus estudos e adiciando neste github os projetos que desenvolvo.
 
-![BLOG](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+[![BLOG](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jornadadeveloperblog.blogspot.com/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cys_developer)
 
 ![Christiany's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiany-s&count_private=true)
 
@@ -19,5 +21,5 @@ Estou iniciando um blog sobre os meus estudos e adiciando neste github os projet
 
 </div> </br>
 
- E além da programação, estou evoluindo em ciência de dados e apaixonada em Inteligência artifical.
+ E além da programação, estou evoluindo em ciência de dados e sou apaixonada em Inteligência artifical.
  
