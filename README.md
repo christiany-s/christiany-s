@@ -5,4 +5,4 @@ Estou iniciando um blog sobre os estudos que realizo e incluindo os meus projeto
 
 
 
-![christiany-s GitHub stats](https://github-readme-stats.vercel.app/api?username=christiany-s&show_icons=true&theme=gruvbox)
+![christiany-s GitHub stats](https://github-readme-stats.vercel.app/api?username=christiany-s&show_icons=true&theme=synthwave)
