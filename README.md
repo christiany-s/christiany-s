@@ -6,7 +6,7 @@ Estou iniciando um blog sobre os meus estudos e adiciando neste github os projet
 
 ![Christiany's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiany-s&count_private=true)
 
-## Tecnologias que já utilizadas:
+## Tecnologias que já utilizo:
 <div style="display inline _block"><br>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -19,6 +19,5 @@ Estou iniciando um blog sobre os meus estudos e adiciando neste github os projet
 
 </div> </br>
 
- E além da programação, estou evoluindo na Ciência de Dados .
- 
+ E além da programação, estou evoluindo em ciência de dados e apaixonada em Inteligência artifical.
  
