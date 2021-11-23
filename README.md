@@ -1,4 +1,4 @@
-### Olá " Bem-vindo(a) ao meu Github. 👩
+### Olá " Bem-vindo(a) ao meu Github.
 🎓  💻
 
 [![BLOG](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jornadadeveloperblog.blogspot.com/)
