@@ -1,6 +1,5 @@
-### Olá " Bem-vindo(a) ao meu Github.
-### Eu sou Christiany Souza.
-Estou iniciando um blog sobre os meus estudos e adiciando neste github os projetos que desenvolvo.
+### Olá " Bem-vindo(a) ao meu Github. 👩
+🎓  💻
 
 [![BLOG](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jornadadeveloperblog.blogspot.com/)
 
