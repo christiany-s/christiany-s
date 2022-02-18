@@ -1,6 +1,6 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is Christiany
-### I'm studying Data Science and Front-end development.
+## 👋
+## Oi! Bem-vindo(a) ao meu perfil no Github.
+### Estou estudando Ciências de dados e Desenvolvimento Front-end. 
 
 
 
